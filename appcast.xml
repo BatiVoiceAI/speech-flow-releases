@@ -4,12 +4,12 @@
         <title>Speech Flow</title>
         <item>
             <title>0.4.0</title>
-            <pubDate>Wed, 10 Jun 2026 23:10:57 +0200</pubDate>
-            <sparkle:version>132</sparkle:version>
+            <pubDate>Thu, 11 Jun 2026 12:19:43 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/BatiVoiceAI/speech-flow-releases/releases/latest/download/SpeechFlow.dmg" length="3432849" type="application/octet-stream" sparkle:edSignature="hJdAyuONhPH1A3Gq9AB+5V4fR/VeyFpGs85qqY3T4ryj6TLkf0jXlsVwrWdUf1TYXz6C2PtM+AmyCZF3CI2aAw=="/>
+            <enclosure url="https://github.com/BatiVoiceAI/speech-flow-releases/releases/latest/download/SpeechFlow.dmg" length="3966080" type="application/octet-stream" sparkle:edSignature="YLIepjZTpL9V0EPpCApjMsn+kGYY665Xp3ktbgEs5w6aXAD7Ib5PbjJ8jMainoIJng9M62ZjQ69VamvnKKQ3BQ=="/>
         </item>
     </channel>
 </rss>
