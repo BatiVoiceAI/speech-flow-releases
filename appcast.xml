@@ -3,13 +3,13 @@
     <channel>
         <title>Speech Flow</title>
         <item>
-            <title>0.4.4</title>
-            <pubDate>Thu, 11 Jun 2026 21:41:54 +0200</pubDate>
-            <sparkle:version>150</sparkle:version>
-            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <title>0.4.5</title>
+            <pubDate>Thu, 18 Jun 2026 13:05:29 +0200</pubDate>
+            <sparkle:version>151</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/SpeechToFlow/speech-flow-releases/releases/latest/download/SpeechFlow.dmg" length="3942145" type="application/octet-stream" sparkle:edSignature="de1gbdZvJECbWumNzOWBnxisDgy9P0mgUPujzVAwHBg18bb3t6JkILwOkZEEeaHrRiLYjHeVHHhecA67dC2fCg=="/>
+            <enclosure url="https://github.com/SpeechToFlow/speech-flow-releases/releases/latest/download/SpeechFlow.dmg" length="3944837" type="application/octet-stream" sparkle:edSignature="7+0PrRELHwSM6SIUOq/468TSKga70qtenhUjnq7FMbtK0uOQEn1RFzJsViaT/3Hv/kW6BlsipEBpi9yBylpkBw=="/>
         </item>
     </channel>
 </rss>
