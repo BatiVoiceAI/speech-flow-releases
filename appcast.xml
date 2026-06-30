@@ -4,12 +4,12 @@
         <title>Speech Flow</title>
         <item>
             <title>0.4.6</title>
-            <pubDate>Mon, 29 Jun 2026 21:14:31 +0200</pubDate>
-            <sparkle:version>169</sparkle:version>
+            <pubDate>Tue, 30 Jun 2026 11:54:15 +0200</pubDate>
+            <sparkle:version>172</sparkle:version>
             <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/SpeechToFlow/speech-flow-releases/releases/latest/download/SpeechFlow.dmg" length="4027676" type="application/octet-stream" sparkle:edSignature="Za/a4meGk5JSmA1YYUY8K2Px0lBz8/mAfaG0cR6fGny84QGy4UJzQISXdtKLqU8+H+hAYSlXo215FV2WPgXXCw=="/>
+            <enclosure url="https://github.com/SpeechToFlow/speech-flow-releases/releases/latest/download/SpeechFlow.dmg" length="4027738" type="application/octet-stream" sparkle:edSignature="/3wwI675Y7DspYFAiAfwQquC8MnMUUdUJO1LLUbLke13II5vsWJak2sAvCG7uYIcegYq4Izof2NvQLDZwRa1Cg=="/>
         </item>
     </channel>
 </rss>
